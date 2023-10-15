@@ -1,0 +1,13 @@
+#header {
+    background-image: url('../../../assets/peony1.jpg');
+    background-size: 100%;
+    margin: 0 !important;
+}
+
+#heading {
+    padding: 7rem !important;
+}
+
+#name {
+    padding-bottom: 1em;
+}
